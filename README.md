@@ -18,3 +18,5 @@ CLI:
   - Run `python weather_app_cli.py` in a terminal if you have Windows.
 
 ## Note
+
+The GUI version is currently under development.
