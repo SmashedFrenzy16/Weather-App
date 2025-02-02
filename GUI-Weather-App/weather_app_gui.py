@@ -14,6 +14,10 @@ api = "ENTER YOUR API KEY HERE"
 
 units = "metric" # metric by default, can be changed to imperial
 
+def execute():
+
+  pass
+
 title_label = Label(root, text="Weather App", font=("Helvetica", 40, "bold"))
 title_label.pack(pady=10)
 
