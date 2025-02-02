@@ -26,7 +26,9 @@ city_input.insert(0, "Enter in the city name here")
 
 city_input.pack()
 
+execute_button = Button(root, text="Go", command=execute)
 
+execute_button.pack()
 
 
 
